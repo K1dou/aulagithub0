@@ -1,3 +1,1 @@
-# aulagithub0
-# aulagithub0
-# aulagithub0
+Ola esse projeto ensina vc a usar o git
